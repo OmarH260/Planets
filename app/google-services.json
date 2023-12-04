@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "849716137183",
+    "project_id": "computersiencetest",
+    "storage_bucket": "computersiencetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849716137183:android:63055a0e2d0a8293b1ed6a",
+        "android_client_info": {
+          "package_name": "com.example.computersiencetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhpUI7HLjcYpapC-Qxctl2CFoAAe7RgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849716137183:android:d3893805915fbe57b1ed6a",
+        "android_client_info": {
+          "package_name": "com.example.planets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhpUI7HLjcYpapC-Qxctl2CFoAAe7RgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
